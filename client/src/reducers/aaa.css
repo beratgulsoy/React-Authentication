@@ -1,0 +1,43 @@
+/*Mobile Tasarım*/
+.page-content.first-page {
+    background: url(https://i.pinimg.com/736x/87/18/fa/8718fa3d0371bc0b0957c865a57d81b0.jpg) center no-repeat !important;
+}
+.first-page .logo-side .logo-div .cart-btn a {
+    color: #fbc800;
+}
+.first-page .logo-side span.login-text a:first-child {
+    background: #00a559;
+}
+.first-page .logo-side span.login-text a:last-child {
+    background: #148551;
+}
+.first-page .logo-side {
+    background-color: rgba(51, 54, 64, 0.66);
+    background-image: linear-gradient(180deg, rgba(51, 54, 64, 0.7) 25%, rgba(13, 14, 25, 0.69) 100%);
+}
+.first-page .btns-side {
+    background-color: rgba(13, 14, 25, 0.69); !important;
+}
+.first-page .btns-container .logo-item .inside {
+    background: rgba(51, 54, 64, 0.8);
+}
+.first-page .btns-container .logo-item .inside .inner {
+    color: #fdfdfd;
+}
+
+/*Web Görünüm*/
+.user-div .register-head {
+    background: #db291b !important;
+}
+.top-menu-wrapper {
+    background: #db291b !important;
+}
+.top-menu-wrapper ul li {
+    border-right: 1px solid #be291e !important;
+}
+.top-menu-wrapper ul li:first-child {
+    border-left: 1px solid #be291e !important;
+}
+.top-menu-wrapper ul li a:hover {
+    background: #99251c !important;
+}
